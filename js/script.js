@@ -56,7 +56,7 @@ ScrollReveal().reveal(".home-content p, .about-content", { origin: "right" });
 // typed js
 
 const typed = new Typed('.multiple-text', {
-    strings: ['Data Analyst', 'Business Intelligence (BI) Analyst','SQL Developer'],
+    strings: ['Data Analyst', 'Business Intelligence (BI) Analyst','SQL Developer','Excel expert'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
